@@ -1,3 +1,9 @@
+#  
+#  This is a tool to :
+#  1. analyze a live stream of network packets for incidents ( parse and dissect network packets ). 
+#  2. read and analyze a network log for incidents. 
+#
+
 require 'packetfu'
 
 SDDR = 0
